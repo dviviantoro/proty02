@@ -1,5 +1,0 @@
-untuk input varibale ke subprocess
-https://www.dataquest.io/blog/python-subprocess/
-
-assycnio graph
-https://stackoverflow.com/questions/74550915/pulling-real-time-data-and-update-in-streamlit-and-asyncio
